@@ -1,0 +1,6 @@
+{
+  "name": "FrameStudio — 사진 크기·비율·용량 스튜디오",
+  "description": "사진의 용량, 해상도 크기, 화면 비율을 정밀하게 조절하고 결과를 저장하는 비밀번호 보호 사진 스튜디오",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
